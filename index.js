@@ -19,3 +19,5 @@ rpc.on('ready', () => {
 rpc.login({
     clientId: clientid
 });
+
+// All the values are declared in config.json
