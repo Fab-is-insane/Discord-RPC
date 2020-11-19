@@ -1,0 +1,9 @@
+{
+    "details": "details",
+    "state": "state",
+    "largeKey": "You can get image keys from art assets",
+    "largeText": "largetext",
+    "smallKey": "You can get image keys from art assets",
+    "smallText": "smalltext",
+    "clientid": "You can get your app's client ID from dev portal"
+}
