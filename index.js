@@ -8,7 +8,7 @@ rpc.on('ready', () => {
     rpc.setActivity({
         details: details,
         state: state,
-        startTimestamp: Date.now(),
+        startTimestamp: Date.now(), //You can add endTimestamp also 
         largeImageKey: largeKey,
         largeImageText: largeText,
         smallImageKey: smallKey,
