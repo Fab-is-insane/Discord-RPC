@@ -14,7 +14,7 @@ rpc.on('ready', () => {
         smallImageKey: smallKey,
         smallImageText: smallText
     });
-    console.log(`RPC active for ${clientid}`)
+    console.log(`RPC active for ${RPC.Client.name}`)
 });
 rpc.login({
     clientId: clientid
